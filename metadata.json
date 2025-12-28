@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LinAlg AI Solver",
+  "description": "A sophisticated linear algebra problem solver that uses Gemini AI to analyze images, provide step-by-step solutions, and explain the computer science/AI context behind the math.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
